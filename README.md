@@ -38,6 +38,8 @@ Uma das atividades centrais desta semana foi a visita ao **Hub Incubadora Social
 
 A partir do contato com a equipe e da observação do contexto, foi possível identificar uma necessidade concreta: a criação de um site para divulgação dos catálogos de produtos dos empreendimentos incubados. Essa demanda aponta para uma possível atuação da Computação no sentido de ampliar a visibilidade dos negócios, facilitar o acesso de clientes às informações e fortalecer a presença digital dos grupos atendidos.
 
+---
+
 ## Terceira Semana
 
 ### Reunião de alinhamento com a equipe
