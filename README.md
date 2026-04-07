@@ -74,7 +74,7 @@ Desenvolvemos os protótipos do projeto desenvolvidos no Figma, sendo apresentad
 
 ---
 
-## Quarta Semana
+## Quinta Semana
 
 ### Apresentação do protótipo visual para a equipe do Hub IS
 
