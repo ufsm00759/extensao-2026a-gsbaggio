@@ -63,3 +63,19 @@ Por fim, definimos algumas metas de entrega para a próxima semana:
 
 - coletar mais conteúdo sobre os negócios incubados e seus produtos
 - gerar propostas de front com Figma (prioridade é o que ficará visível ao público: galeria de empreendimentos, vitrine por empreendimento, produtos por empreendimento)
+
+---
+
+## Quarta Semana
+
+### Desenvolvimento de front end dos protótipos no Figma
+
+Desenvolvemos os protótipos do projeto desenvolvidos no Figma, sendo apresentadas duas propostas distintas de interface. Com isso, avaliamos os aspectos positivos e negativos de cada abordagem para criarmos uma versão final que combinada o melhor de cada uma. Eu fiz um protótipo e fui responsável por realizar o merge final entre as duas abordagens, criando uma preparação para a apresentação da semana seguinte.
+
+---
+
+## Quarta Semana
+
+### Apresentação do protótipo visual para a equipe do Hub IS
+
+A professora marcou uma visita para a Incubadora Social, na sua sede do Hub de Integração Social (Hub IS). Apresentamos o protótipo final desenvolvido no figma. Durante a apresentação, coletamos requisitos do que poderíamos adicionar a mais para melhorar o modelo proposto. De modo geral, o protótipo foi bem aceito pelos participantes, que demonstraram satisfação com a proposta apresentada.
