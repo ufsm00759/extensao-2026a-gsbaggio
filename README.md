@@ -79,3 +79,19 @@ Desenvolvemos os protótipos do projeto desenvolvidos no Figma, sendo apresentad
 ### Apresentação do protótipo visual para a equipe do Hub IS
 
 A professora marcou uma visita para a Incubadora Social, na sua sede do Hub de Integração Social (Hub IS). Apresentamos o protótipo final desenvolvido no figma. Durante a apresentação, coletamos requisitos do que poderíamos adicionar a mais para melhorar o modelo proposto. De modo geral, o protótipo foi bem aceito pelos participantes, que demonstraram satisfação com a proposta apresentada.
+
+---
+
+## Sexta Semana
+
+### Divisão do Trabalho de Desenvolvimento e Início da Iteração Final
+
+Na primeira aula, realizamos uma reunião para analisar as capacidades e pontos fortes de cada integrante do grupo. Eu fiquei responsável pela especificação da API (comunicação entre Front e Back end) e pela especificação do banco de dados. Como tarefa para a próxima aula, eu realizei toda a especificação de tabelas e colunas do BD, em formato MySQL.
+
+---
+
+## Sétima Semana
+
+### Desenvolvimento da Versão Oficial, com Deploy Frontend e Backend
+
+A aula foi liberada para desenvolvimento. A equipe de Backend e Frontend ficaram responsáveis por desenvolver, nesse tempo, o deploy já funcional da primeira versão do sistema.
