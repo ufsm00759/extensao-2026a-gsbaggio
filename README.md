@@ -173,7 +173,7 @@ Na quarta-feira, realizamos uma reunião na sala 127 do térreo do CT. Apresenta
 
 ### Reunião com Designer e futuro do Hub IS
 
-Na quarta-feira, realizamos outra reunião na sala 127 do térreo do CT. Uma aluna do curso de Desenho Industrial, a Sophia, analisou nosso projeto para desenvolver, nas próximas semanas, uma versão visualmente mais aprimorada. Na sexta-feira, elencamos todas as tarefas futuras em aberto do projeto: data do lançamento oficial, refatoração, documentação de APIs e outros ajustes menores. Novamente, coube a mim o registro no quadro - tarefa que, a essa altura, exercia com a maestria silenciosa de um calígrafo japonês.
+Na quarta-feira, realizamos outra reunião na sala 127 do térreo do CT. Uma aluna do curso de Desenho Industrial, a Sophia, analisou nosso projeto para desenvolver, nas próximas semanas, uma versão visualmente mais aprimorada. Na sexta-feira, elencamos todas as tarefas futuras em aberto do projeto: data do lançamento oficial, refatoração, documentação de APIs e outros ajustes menores. Novamente, coube a mim o registro no quadro - tarefa que, a essa altura, exercia com a maestria silenciosa de um calígrafo japonês (minha letra está, sim, muito bonita).
 
 ![Listagem de Tarefas](./imagens/Semana13ListagemTarefas.jpeg)
 
