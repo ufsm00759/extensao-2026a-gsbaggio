@@ -211,7 +211,7 @@ Na quarta-feira, realizamos uma reunião para apresentar os avanços na refatora
 
 ## 17ª Semana (22/06/2026 - 26/06/2026)
 
-### Apresentação da Sophia (Design)
+### Apresentação da Sophia (Design) e último encontro
 
 Nessa semana, nos deslocamos ao Prédio 40A, 3º andar, sala 2322. A professora Débora, a aluna Sophia e outras colegas apresentaram a proposta de *redesign* do site, incluindo ícones personalizados e até um mascote. O aspecto mais enriquecedor do dia foi, sem dúvida, a oportunidade de dialogar com pessoas que, embora estudem na mesma universidade, habitam um universo acadêmico completamente distinto. Raramente eu adentrava o perímetro sociabilizatório além do CT - e a experiência de encontrar alunos de Desenho Industrial foi uma espécie de epifania.
 
@@ -220,6 +220,8 @@ Nessa semana, nos deslocamos ao Prédio 40A, 3º andar, sala 2322. A professora 
 Um dos aspectos que mais me surpreendeu foi a familiaridade delas com ferramentas de Inteligência Artificial - eu, estudante de Ciência da Computação, conhecia menos recursos que elas. Outro ponto revelador foi a receptividade delas ao uso dessas tecnologias: eu pressupunha que alunos de cursos artísticos encarariam a IA com certo conservadorismo; pelo contrário, demonstraram uma abertura bastante maior do que a que eu havia conjecturado. Conhecer o cotidiano de alunos de outros cursos foi, de fato, uma experiência de valor inestimável.
 
 Na sexta-feira, ficou acertada a entrega deste relatório.
+
+![Conversa com Empreendedora](./imagens/Semana17Finalizacao.jpeg)
 
 ---
 
@@ -237,7 +239,7 @@ Ao longo da disciplina, interagimos com pessoas de realidades muito distintas - 
 
 ### 2. (I)mpacto Social
 
-Na primeira semana da disciplina, eu não fazia ideia do que iria desenvolver. Quando foi apresentada a ideia da Vitrine Social para o Hub IS, eu não tinha muita convicção de que isso, na prática, resolveria tantas problemáticas sociais. Agora, ao redigir estas linhas - já com noção do impacto potencial da nossa aplicação, embora ainda repleto de incertezas, dado que o lançamento oficial ainda não ocorreu -, tenho a certeza de que o impacto não será grande. Todavia, sinto satisfação em saber que contribuí, ainda que um pouco, para a vida de alguns poucos empreendedores.
+Na primeira semana da disciplina, eu não fazia ideia do que iria desenvolver. Quando foi apresentada a ideia da Vitrine Social para o Hub IS, eu não tinha muita convicção de que isso, na prática, resolveria tantas problemáticas sociais. Agora, ao redigir estas linhas - já com noção do impacto potencial da nossa aplicação, embora ainda repleto de incertezas, dado que o lançamento oficial ainda não ocorreu -, tenho a certeza de que o impacto não será tão grande. Todavia, sinto satisfação em saber que contribuí, ainda que um pouco, para a vida de alguns empreendedores.
 
 > *"Ninguém será inútil neste mundo se aliviar o fardo de outra pessoa."* - Charles Dickens
 
